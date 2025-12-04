@@ -1,6 +1,6 @@
-Here is a practical, writer-oriented map of *skills*, *craft concepts*, and *terminology* you can study to build the kind of immersive, compelling narrative you’re describing — the kind that makes even uninterested readers stay glued to the page.
+# Styles
 
-To keep this immediately useful, I’ll reference the styles you mentioned:
+Styles Referenced
 
 * **Graham Hancock’s *War God*** → braided, parallel narratives with momentum
 * **Arthur C. Clarke’s *Rendezvous with Rama*** → minimalist clarity, controlled pacing, “discovery engine” structure
@@ -247,7 +247,7 @@ A focused learning sequence:
 
 ---
 
-# **If you want, I can help you:**
+# Research:
 
 * design your protagonist’s voice
 * choose your narrative structure
@@ -255,7 +255,7 @@ A focused learning sequence:
 * build your historical setting and research workflow
 * create a step-by-step writing curriculum tailored to your exact goals
 
-Just tell me which direction you want to explore first.
+
 
 
 # **WRITING PROJECT — FOUNDATIONS**
@@ -511,11 +511,11 @@ We identify what to refine, expand, or research for the following session.
 
 ---
 
-# **Would you like the next step to be:**
+# **Research:**
 
 **A)** Creating your story’s first braided outline?
 **B)** Developing your narrator’s voice profile?
 **C)** Building a historical timeline to anchor the novel?
 **D)** A scene-level exploration (first page, first paragraph, etc.)?
 
-I can guide any of these paths.
+
